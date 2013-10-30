@@ -1,5 +1,5 @@
 {
-  "name": "passport-yahoo-oauth-contact",
+  "name": "passport-yahoo-oauth-contacts",
   "version": "0.1.2",
   "description": "Yahoo! (OAuth) authentication strategy for Passport. Contacts Hack",
   "keywords": ["passport", "yahoo", "auth", "authn", "authentication", "identity"],
